@@ -21,3 +21,6 @@
 [08-Mar-2026 23:16:26 UTC] PHP Fatal error:  Out of memory (allocated 33554432 bytes) (tried to allocate 2097152 bytes) in /workspaces/Assignment-2/.wordpress/wp-includes/class-wp-admin-bar.php on line 550
 [08-Mar-2026 23:16:26 UTC] PHP Fatal error:  Out of memory (allocated 33554432 bytes) (tried to allocate 2097152 bytes) in /workspaces/Assignment-2/.wordpress/wp-admin/includes/dashboard.php on line 77
 [08-Mar-2026 23:16:31 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 12288 bytes) in /workspaces/Assignment-2/.wordpress/wp-admin/includes/user.php on line 634
+[13-Mar-2026 05:11:17 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/Assignment-2/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[13-Mar-2026 05:22:55 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/Assignment-2/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[13-Mar-2026 05:23:42 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/Assignment-2/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
